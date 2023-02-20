@@ -1,1 +1,1 @@
-Aqui serão os projetos para estudo e pratica
+Projetos para estudos
