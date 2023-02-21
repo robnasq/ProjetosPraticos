@@ -52,4 +52,3 @@ setInterval(draw, 43);
 
 
 document.body.style.overflow = 'hidden';
-document.html.style.bacground = "#000";
